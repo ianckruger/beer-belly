@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "beerBelly",
+    "slug": "beerBelly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "src/assets/img/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "src/assets/img/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "src/assets/img/android-icon-foreground.png",
+        "backgroundImage": "src/assets/img/android-icon-background.png",
+        "monochromeImage": "src/assets/img/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "src/assets/img/favicon.png"
+    }
+  }
+}
